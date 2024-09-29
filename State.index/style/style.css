@@ -76,5 +76,20 @@ table, th, td{
     float: right;
     color: aqua;
     margin-right: 250px;
-    padding-top: 500px;
+    padding-top: ;
+}
+
+.fun{
+    position: relative;
+    left: 90px;
+}
+
+.eats{
+    position: relative;
+    left: 80px;
+}
+.taco{
+    position: absolute;
+    left: 80%;
+    top: auto;
 }
